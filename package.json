@@ -1,0 +1,17 @@
+{
+  "name": "dzx-universal-website",
+  "version": "2.1.4",
+  "description": "DZX Universal - Advanced ESP & Aimbot Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "server": "node server.js"
+  },
+  "keywords": ["roblox", "executor", "esp", "aimbot", "gaming"],
+  "author": "DZX Universal",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
